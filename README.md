@@ -8,7 +8,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 ### Skills I used
 - Charts
-- Formulars and functions
+- Formulas and functions
 - Data Validation
 ### Dataset
 The dataset used for this project contains real-world data science job information from 2023,Originally sourced from
@@ -35,9 +35,9 @@ The dataset used for this project contains real-world data science job informati
 - _**Visual Enhancement**_: Improved readability and immediate understanding of geographic salary trends.
 - _**Insights Gained**_: Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
-#### 🔹**Formulars and Functions**
+#### 🔹**Formulas and Functions**
 
-**Median Salary by jobs title**
+**Median Salary by job title**
 ```excel
 =MEDIAN(
     IF(
@@ -93,12 +93,12 @@ To improve the usability and reliability of the dashboard, the **filtered list**
 ![Validation](./Data_set_1/Pics/validation1.png)
 
 
-### Conclution
+### Conclusion
 This dashboard showcases insights into salary trends across various data-related job titles. It allows users to explore how location and job type influence salaries and make informed career decisions. The dashboard also demonstrates skills in data analysis, visualization, and the use of formulas and data validation to extract meaningful insights.
 
 ## Salary Analyst
 [Check it out here](./project_2_analyst.xlsx)
-### Introduct
+### Introduce
 
 #### Question to Analyst
 1. Do more skills get you better pay?
@@ -217,5 +217,5 @@ Skills like Python and SQL are associated with the highest median salaries, high
 
 ![Analyst4](./Data_set_1/Pics/sc8.png)
 
-### Conclution
-This project demonstrates how Excel tools like Power Query, Power Pivot, PivotTables, PivotCharts, and DAX can be used to analyze real-world data science job information. The analysis shows that more specialized skills generally lead to higher salaries, median salaries vary by region with Thailand showing notably higher pay for Data Analysts, and SQL, Python, and Tableau remain the most valuable skills in the job market. Overall, the dashboard provides actionable insights into career planning and the value of skill development in data-related roles.
+### Conclusion
+This project demonstrates how Excel tools like Power Query, Power Pivot, PivotTables, PivotCharts, and DAX can be used to analyze real-world data science job information. The analysis shows that more specialized skills generally lead to higher salaries,median salaries vary by region with Thailand showing notably higher pay for Data Analysts, and SQL, Python, and Tableau remain the most valuable skills in the job market. Overall, the dashboard provides actionable insights into career planning and the value of skill development in data-related roles.

@@ -2,6 +2,7 @@
 This project aims to improve my excel skills.
 ## Salary Dashbord
 ![Dashbord](./Data_set_1/Pics/Dashbord.png)
+[Check it out here](./project_1_dashbord.xlsx)
 ### Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
@@ -96,7 +97,7 @@ To improve the usability and reliability of the dashboard, the **filtered list**
 This dashboard showcases insights into salary trends across various data-related job titles. It allows users to explore how location and job type influence salaries and make informed career decisions. The dashboard also demonstrates skills in data analysis, visualization, and the use of formulas and data validation to extract meaningful insights.
 
 ## Salary Analyst
-
+[Check it out here](./project_2_analyst.xlse)
 ### Introduct
 
 #### Question to Analyst
